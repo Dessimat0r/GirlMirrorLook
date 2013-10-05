@@ -1,0 +1,22 @@
+Initialize engine version: 4.1.3f3 (9174d583c97b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1242]
+    Renderer: AMD Radeon HD 6900 Series
+    Vendor:   ATI
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Chris\Documents\New Unity Project\Win_OculusUnityDemoScene_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\New Unity Project\Win_OculusUnityDemoScene_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\New Unity Project\Win_OculusUnityDemoScene_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\New Unity Project\Win_OculusUnityDemoScene_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\New Unity Project\Win_OculusUnityDemoScene_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\New Unity Project\Win_OculusUnityDemoScene_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\New Unity Project\Win_OculusUnityDemoScene_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\New Unity Project\Win_OculusUnityDemoScene_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 2560x1440 60Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Chris\Documents\New Unity Project\Win_OculusUnityDemoScene_Data\Managed\Boo.Lang.dll (this message is harmless)
